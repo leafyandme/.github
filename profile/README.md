@@ -1,1 +1,6 @@
-<div align=center><strong><code>A little care.  A lot of growth!</code></strong></div>
+<div align=center>
+  <pre>░█░░░█▀▀░█▀█░█▀▀░█░█░░░█▀█░█▀█░█▀▄░░░█▄█░█▀▀░
+░█░░░█▀▀░█▀█░█▀▀░░█░░░░█▀█░█░█░█░█░░░█░█░█▀▀░
+░▀▀▀░▀▀▀░▀░▀░▀░░░░▀░░░░▀░▀░▀░▀░▀▀░░░░▀░▀░▀▀▀░
+<strong>🪴 Your plants, care history, and reminders 🌿</strong></pre>
+</div>
